@@ -1,0 +1,6 @@
+@dotNetCrud_HostAddress = http://localhost:5104
+
+GET {{dotNetCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
