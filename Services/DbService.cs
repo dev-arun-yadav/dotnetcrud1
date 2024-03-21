@@ -23,7 +23,5 @@ namespace dotNetCrud.Services {
                 return result;
             }
         }
-
-
     }
 }
